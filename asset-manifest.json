@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/voice-controlled-news-app-react-alan/static/css/main.dddf91e4.chunk.css",
+    "main.js": "/voice-controlled-news-app-react-alan/static/js/main.f93fd1cf.chunk.js",
+    "main.js.map": "/voice-controlled-news-app-react-alan/static/js/main.f93fd1cf.chunk.js.map",
+    "runtime-main.js": "/voice-controlled-news-app-react-alan/static/js/runtime-main.db057005.js",
+    "runtime-main.js.map": "/voice-controlled-news-app-react-alan/static/js/runtime-main.db057005.js.map",
+    "static/js/2.cdb68b6b.chunk.js": "/voice-controlled-news-app-react-alan/static/js/2.cdb68b6b.chunk.js",
+    "static/js/2.cdb68b6b.chunk.js.map": "/voice-controlled-news-app-react-alan/static/js/2.cdb68b6b.chunk.js.map",
+    "index.html": "/voice-controlled-news-app-react-alan/index.html",
+    "precache-manifest.b294e641bf316820d487995a4694eee8.js": "/voice-controlled-news-app-react-alan/precache-manifest.b294e641bf316820d487995a4694eee8.js",
+    "service-worker.js": "/voice-controlled-news-app-react-alan/service-worker.js",
+    "static/css/main.dddf91e4.chunk.css.map": "/voice-controlled-news-app-react-alan/static/css/main.dddf91e4.chunk.css.map",
+    "static/js/2.cdb68b6b.chunk.js.LICENSE.txt": "/voice-controlled-news-app-react-alan/static/js/2.cdb68b6b.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.db057005.js",
+    "static/js/2.cdb68b6b.chunk.js",
+    "static/css/main.dddf91e4.chunk.css",
+    "static/js/main.f93fd1cf.chunk.js"
+  ]
+}
